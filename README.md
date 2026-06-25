@@ -1,82 +1,134 @@
 # 🧮 SmartCalc Pro
 
-> Advanced Multi-Purpose Calculator Application Built with Python & CustomTkinter
+<div align="center">
+
+### Advanced Multi-Purpose Calculator Application Built with Python & CustomTkinter
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-green?style=for-the-badge)
 ![SymPy](https://img.shields.io/badge/SymPy-Mathematics-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+</div>
+
 ---
 
 ## 📌 Project Overview
 
-SmartCalc Pro is a modern desktop application that combines multiple calculators and utility tools into a single platform. It is designed to provide an efficient and user-friendly experience for students, professionals, engineers, analysts, and everyday users.
+SmartCalc Pro is a modern desktop application that combines multiple calculators and utility tools into a single platform.
 
-Instead of relying on multiple applications for different calculations, SmartCalc Pro integrates scientific computing, statistics, finance, health metrics, equation solving, and conversion tools within one intuitive interface.
+Designed for students, professionals, engineers, analysts, and everyday users, SmartCalc Pro eliminates the need for multiple standalone applications by integrating advanced mathematical, statistical, financial, health, and conversion tools within one intuitive interface.
 
----
+### 🎯 Key Objectives
 
-## 🎥 Project Demonstration
-
-### 📹 Demo Video
-
-> Click the thumbnail below to watch the project demonstration.
-
-[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-red?style=for-the-badge)](PASTE_YOUR_VIDEO_LINK_HERE)
-
-### Demo Includes
-
-- Application Overview
-- Standard Calculator
-- Scientific Calculator
-- Trigonometry Calculator
-- Unit Converter
-- Currency Exchange Calculator
-- Statistics Calculator
-- Equation Solver
-- EMI Calculator
-- BMI Calculator
-- Theme & User Interface Walkthrough
+- Simplify everyday calculations
+- Provide advanced mathematical utilities
+- Support financial planning and analysis
+- Enable quick statistical analysis
+- Deliver a modern desktop experience
 
 ---
 
-## ✨ Features
+# 🎥 Project Demonstration
 
-### 🔢 Standard Calculator
+<div align="center">
+
+<a href="PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="900" alt="SmartCalc Pro Demo">
+</a>
+
+### ▶️ Click the Thumbnail Above to Watch the Full Demonstration
+
+</div>
+
+---
+
+## 📹 Demo Covers
+
+✅ Application Overview
+
+✅ Standard Calculator
+
+✅ Scientific Calculator
+
+✅ Trigonometry Calculator
+
+✅ Unit Converter
+
+✅ Currency Exchange Calculator
+
+✅ Statistics Calculator
+
+✅ Equation Solver
+
+✅ EMI Calculator
+
+✅ BMI Calculator
+
+✅ Modern User Interface
+
+✅ Error Handling & Validation
+
+---
+
+# ✨ Features
+
+## 🔢 Standard Calculator
+
+Perform daily arithmetic calculations quickly and efficiently.
+
+### Features
 
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Percentage Operations
+- Percentage
+- Decimal Operations
 - Clear & Reset Functions
 
-### 🔬 Scientific Calculator
+---
+
+## 🔬 Scientific Calculator
+
+Advanced mathematical computations for academic and professional use.
+
+### Features
 
 - Square Root
 - Powers & Exponents
 - Logarithm (log)
-- Natural Log (ln)
+- Natural Logarithm (ln)
 - Factorial
-- Pi (π) & Euler (e) Constants
+- Pi (π)
+- Euler Constant (e)
 - Trigonometric Functions
 
-### 📐 Trigonometry Calculator
+---
 
-- Sin
-- Cos
-- Tan
-- Cot
-- Sec
-- Cosec
+## 📐 Trigonometry Calculator
+
+Dedicated trigonometric computation module.
+
+### Features
+
+- Sine (sin)
+- Cosine (cos)
+- Tangent (tan)
+- Cotangent (cot)
+- Secant (sec)
+- Cosecant (cosec)
 - Inverse Trigonometric Functions
 - Degree Mode
 - Radian Mode
 
-### 📏 Unit Converter
+---
 
-Supports conversion across multiple categories:
+## 📏 Unit Converter
+
+Supports conversion across multiple categories.
+
+### Supported Categories
 
 - Length
 - Weight
@@ -90,16 +142,27 @@ Supports conversion across multiple categories:
 - Power
 - Data Storage
 
-### 💱 Currency Exchange Calculator
+---
 
-- Real-Time Currency Conversion
+## 💱 Currency Exchange Calculator
+
+Real-time currency conversion using exchange-rate data.
+
+### Features
+
+- Live Exchange Rates
 - Multiple Currency Support
 - Country-Based Currency Selection
-- Exchange Rate API Integration
+- Fast Conversion
+- User-Friendly Interface
 
-### 📊 Statistics Calculator
+---
 
-Perform statistical analysis including:
+## 📊 Statistics Calculator
+
+Perform descriptive statistical analysis instantly.
+
+### Available Calculations
 
 - Count
 - Sum
@@ -112,8 +175,282 @@ Perform statistical analysis including:
 - Variance
 - Standard Deviation
 
-### 📈 Equation Solver
+### Additional Features
 
-Supports:
+- Individual Data Entry
+- Dynamic Data Series Generation
+- Instant Statistical Summary
 
-#### Linear Equations
+---
+
+## 📈 Equation Solver
+
+Solve multiple types of equations using dedicated coefficient inputs.
+
+### Supported Equations
+
+#### Linear Equation
+
+```text
+ax + b = c
+```
+
+#### Quadratic Equation
+
+```text
+ax² + bx + c = 0
+```
+
+#### Cubic Equation
+
+```text
+ax³ + bx² + cx + d = 0
+```
+
+#### Simultaneous Equations (2 Variables)
+
+```text
+a₁x + b₁y = c₁
+a₂x + b₂y = c₂
+```
+
+#### Simultaneous Equations (3 Variables)
+
+```text
+a₁x + b₁y + c₁z = d₁
+a₂x + b₂y + c₂z = d₂
+a₃x + b₃y + c₃z = d₃
+```
+
+---
+
+## 💰 Finance Calculator
+
+### EMI Calculator
+
+Calculate loan repayment details instantly.
+
+### Features
+
+- Monthly EMI
+- Total Interest Payable
+- Total Repayment Amount
+- Loan Planning Assistance
+
+---
+
+## ❤️ Health Calculator
+
+### BMI Calculator
+
+Evaluate health status using Body Mass Index.
+
+### Features
+
+- BMI Calculation
+- Health Classification
+- Weight Assessment
+
+### Categories
+
+- Underweight
+- Normal Weight
+- Overweight
+- Obese
+
+---
+
+# 🖼️ Application Screenshots
+
+## 🏠 Home Screen
+
+![Home](screenshots/home.png)
+
+## 🔬 Scientific Calculator
+
+![Scientific](screenshots/scientific.png)
+
+## 📐 Trigonometry Calculator
+
+![Trigonometry](screenshots/trigonometry.png)
+
+## 📏 Unit Converter
+
+![Unit Converter](screenshots/unit_converter.png)
+
+## 💱 Currency Exchange Calculator
+
+![Currency](screenshots/currency.png)
+
+## 📊 Statistics Calculator
+
+![Statistics](screenshots/statistics.png)
+
+## 📈 Equation Solver
+
+![Equation Solver](screenshots/equation_solver.png)
+
+## 💰 EMI Calculator
+
+![EMI](screenshots/emi.png)
+
+## ❤️ BMI Calculator
+
+![BMI](screenshots/bmi.png)
+
+---
+
+# 🛠️ Technologies Used
+
+## Programming Language
+
+- Python
+
+## GUI Framework
+
+- CustomTkinter
+
+## Libraries
+
+- SymPy
+- Statistics
+- Math
+- Requests
+
+## APIs
+
+- Exchange Rate API
+
+## Concepts Applied
+
+- Object-Oriented Programming (OOP)
+- Event-Driven Programming
+- Dynamic User Interface Design
+- Exception Handling
+- Data Validation
+- Mathematical Computing
+
+---
+
+# 🚀 Installation
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/SAAYAN-SAMANTA/SmartCalc-Pro.git
+```
+
+## Navigate to Project Directory
+
+```bash
+cd SmartCalc-Pro
+```
+
+## Install Dependencies
+
+```bash
+pip install customtkinter
+pip install sympy
+pip install requests
+```
+
+## Run the Application
+
+```bash
+python main.py
+```
+
+---
+
+# 🌟 Why SmartCalc Pro?
+
+Unlike traditional calculators that focus only on basic arithmetic operations, SmartCalc Pro provides:
+
+✅ Scientific Computing
+
+✅ Advanced Trigonometric Analysis
+
+✅ Statistical Calculations
+
+✅ Financial Planning Tools
+
+✅ Health Monitoring Utilities
+
+✅ Equation Solving
+
+✅ Real-Time Currency Exchange
+
+✅ Unit Conversion
+
+✅ Modern Multi-Tab User Interface
+
+All integrated into one powerful desktop application.
+
+---
+
+# 📚 Learning Outcomes
+
+This project strengthened my skills in:
+
+- Python Development
+- GUI Development
+- Mathematical Computing
+- API Integration
+- Data Validation
+- Financial Calculations
+- Statistical Analysis
+- Software Design Principles
+
+---
+
+# 🚀 Future Enhancements
+
+- Graph Plotter
+- Matrix Calculator
+- Tax Calculator
+- Age Calculator
+- Export Results to PDF
+- Export Results to Excel
+- Statistical Charts & Visualizations
+- Loan Comparison Tools
+- Advanced Financial Planning Features
+
+---
+
+# 👨‍💻 Author
+
+## Saayan Samanta
+
+Computer Science & Engineering Student
+
+### Areas of Interest
+
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Business Intelligence
+- Software Development
+
+📧 Email: saayansamanta2003@gmail.com
+
+🐙 GitHub: https://github.com/SAAYAN-SAMANTA
+
+🔗 LinkedIn: YOUR_LINKEDIN_PROFILE
+
+---
+
+# ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Feedback, suggestions, and contributions are always welcome.
+
+---
+
+<div align="center">
+
+# 🚀 SmartCalc Pro
+
+### One Application • Multiple Solutions • Unlimited Possibilities
+
+</div>
