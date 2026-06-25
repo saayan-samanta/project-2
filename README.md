@@ -262,7 +262,7 @@ Evaluate health status using Body Mass Index.
 
 # 🖼️ Application Screenshots
 
-## 🏠 Home Screen
+## 🏠 Standared Screen
 
 ![Standared](Images/Standared_Calculator.png)
 
