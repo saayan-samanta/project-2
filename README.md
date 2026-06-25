@@ -262,7 +262,7 @@ Evaluate health status using Body Mass Index.
 
 # 🖼️ Application Screenshots
 
-## 🏠 Standared Screen
+## 🏠 Standared Calculator
 
 ![Standared](Images/Standared_Calculator.png)
 
@@ -272,31 +272,31 @@ Evaluate health status using Body Mass Index.
 
 ## 📐 Trigonometry Calculator
 
-![Trigonometry](Images/trigonometry.png)
+![Trigonometry](Images/Trignometry.png)
 
 ## 📏 Unit Converter
 
-![Unit Converter](Images/unit_converter.png)
+![Unit Converter](Images/Unit_Converter.png)
 
 ## 💱 Currency Exchange Calculator
 
-![Currency](Images/currency.png)
+![Currency](Images/Currency_Exchange.png)
 
 ## 📊 Statistics Calculator
 
-![Statistics](Images/statistics.png)
+![Statistics](Images/Statistics.png)
 
 ## 📈 Equation Solver
 
-![Equation Solver](Images/equation_solver.png)
+![Equation Solver](Images/Equation_Solver.png)
 
 ## 💰 EMI Calculator
 
-![EMI](Images/emi.png)
+![EMI](Images/Finance.png)
 
 ## ❤️ BMI Calculator
 
-![BMI](Images/bmi.png)
+![BMI](Images/Health.png)
 
 ---
 
