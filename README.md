@@ -33,8 +33,8 @@ Designed for students, professionals, engineers, analysts, and everyday users, S
 
 <div align="center">
 
-<a href="PASTE_YOUR_YOUTUBE_VIDEO_LINK_HERE">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="900" alt="SmartCalc Pro Demo">
+<a href="https://drive.google.com/file/d/1D16B78Y7HwNJ2CRZNuErQZAvZzcd1pzq/view?usp=sharing">
+    <img src="/Images/Thumbnail.png" width="900" alt="SmartCalc Pro Demo">
 </a>
 
 ### ▶️ Click the Thumbnail Above to Watch the Full Demonstration
