@@ -264,39 +264,39 @@ Evaluate health status using Body Mass Index.
 
 ## 🏠 Home Screen
 
-![Home](screenshots/home.png)
+![Standared](Images/Standared_Calculator.png)
 
 ## 🔬 Scientific Calculator
 
-![Scientific](screenshots/scientific.png)
+![Scientific](Images/Scientific_Calculator.png)
 
 ## 📐 Trigonometry Calculator
 
-![Trigonometry](screenshots/trigonometry.png)
+![Trigonometry](Images/trigonometry.png)
 
 ## 📏 Unit Converter
 
-![Unit Converter](screenshots/unit_converter.png)
+![Unit Converter](Images/unit_converter.png)
 
 ## 💱 Currency Exchange Calculator
 
-![Currency](screenshots/currency.png)
+![Currency](Images/currency.png)
 
 ## 📊 Statistics Calculator
 
-![Statistics](screenshots/statistics.png)
+![Statistics](Images/statistics.png)
 
 ## 📈 Equation Solver
 
-![Equation Solver](screenshots/equation_solver.png)
+![Equation Solver](Images/equation_solver.png)
 
 ## 💰 EMI Calculator
 
-![EMI](screenshots/emi.png)
+![EMI](Images/emi.png)
 
 ## ❤️ BMI Calculator
 
-![BMI](screenshots/bmi.png)
+![BMI](Images/bmi.png)
 
 ---
 
@@ -435,7 +435,7 @@ Computer Science & Engineering Student
 
 🐙 GitHub: https://github.com/SAAYAN-SAMANTA
 
-🔗 LinkedIn: YOUR_LINKEDIN_PROFILE
+🔗 LinkedIn: https://www.linkedin.com/in/saayan-samanta-103788261/
 
 ---
 
